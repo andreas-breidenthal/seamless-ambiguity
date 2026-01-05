@@ -1,4 +1,4 @@
-*Two interconnected manuscripts exploring the boundary between fictional archives and historical record.*
+Two interconnected manuscripts exploring the boundary between fictional archives and the historical record — and what survives within it.
 
 # Seamless: A Study in Ambiguity
 
