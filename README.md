@@ -27,7 +27,7 @@ The documents may be read independently.
 
 However, the intended sequence is:
 1. *Operation Seamless: A Recovered Archive*
-2. *Repairing the Gaps*
+2. *Repairing the Gaps: Notes on Building a Fictional Archive*
 
 ## Status
 
