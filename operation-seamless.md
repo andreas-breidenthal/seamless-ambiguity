@@ -4275,7 +4275,7 @@ I believed, then, that my service had ended. That my duty was complete.
 
 I was mistaken.
 
-Chapter 6: The Night of 25 November
+### Chapter 6: The Night of 25 November
 
 **Rolls House — 25 November 1888**
 
