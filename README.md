@@ -15,7 +15,7 @@ The documents are complete as presented. No further context is required.
 
 ## Contents
 
-### Operation Seamless: A Recovered Archive
+### [Operation Seamless:](operation-seamless.md) A Recovered Archive
 A collection of purported late-Victorian documents describing a violent incident in 1888 and the subsequent erasure of its participants from the historical record.
 
 ### Repairing the Gaps
