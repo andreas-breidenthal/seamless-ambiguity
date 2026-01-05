@@ -18,7 +18,7 @@ The documents are complete as presented. No further context is required.
 ### [Operation Seamless:](operation-seamless.md) A Recovered Archive
 A collection of purported late-Victorian documents describing a violent incident in 1888 and the subsequent erasure of its participants from the historical record.
 
-### Repairing the Gaps
+### [Repairing the Gaps](reparing-the-gaps.md)
 A reflective companion text examining the construction of *Operation Seamless* as a fictional archive — its research, structure, ethical constraints, and deliberate ambiguities.
 
 ## Reading Order
