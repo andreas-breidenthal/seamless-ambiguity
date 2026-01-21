@@ -1,3 +1,5 @@
+![Operation Seamless book cover](images/operation-seamless-cover.jpg)
+
 # Operation Seamless
 
 **A Recovered Archive, 1888–1901**
