@@ -1,4 +1,4 @@
-![Seamless book cover](images/seamless-ambiguity-cover.jpg)
+![Seamless book cover](images/seamless-ambiguity-cover.png)
 
 Two interconnected manuscripts exploring the boundary between fictional archives and the historical record — and what survives within it.
 
