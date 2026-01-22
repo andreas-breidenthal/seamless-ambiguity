@@ -1,4 +1,4 @@
-![Operation Seamless book cover](images/operation-seamless-cover.jpg)
+![Operation Seamless book cover](images/operation-seamless-cover.png)
 
 # Operation Seamless
 
