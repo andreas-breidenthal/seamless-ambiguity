@@ -1,4 +1,4 @@
-![Repairing the Gaps book cover](images/repairing-the-gaps-cover.png)
+![Repairing the Gaps book cover](images/repairing-the-gaps-cover.webp)
 
 # Repairing the Gaps
 
